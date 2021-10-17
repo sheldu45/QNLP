@@ -1,0 +1,100 @@
+0	dogs purr	0
+1	cats purr	1
+2	dogs chase dogs	1
+3	dogs chase cats	1
+4	dogs don't purr	1
+5	cats chase dogs	0
+6	cats chase cats	1
+7	cats don't purr	0
+8	dogs don't chase dogs	0
+9	dogs don't chase cats	0
+10	dogs don't don't purr	0
+11	dogs purr and purr	0
+12	dogs purr or purr	0
+13	cats don't chase dogs	1
+14	cats don't chase cats	0
+15	cats don't don't purr	1
+16	cats purr and purr	1
+17	cats purr or purr	1
+18	dogs chase dogs and purr	0
+19	dogs chase dogs or purr	1
+20	dogs chase cats and purr	0
+21	dogs chase cats or purr	1
+22	dogs don't don't chase dogs	1
+23	dogs don't don't chase cats	1
+24	dogs don't don't don't purr	1
+25	dogs don't purr and purr	0
+26	dogs don't purr or purr	1
+27	dogs purr and chase dogs	0
+28	dogs purr and chase cats	0
+29	dogs purr and don't purr	0
+30	dogs purr or chase dogs	1
+31	dogs purr or chase cats	1
+32	dogs purr or don't purr	1
+33	cats chase dogs and purr	0
+34	cats chase dogs or purr	1
+35	cats chase cats and purr	1
+36	cats chase cats or purr	1
+37	cats don't don't chase dogs	0
+38	cats don't don't chase cats	1
+39	cats don't don't don't purr	0
+40	cats don't purr and purr	0
+41	cats don't purr or purr	1
+42	cats purr and chase dogs	0
+43	cats purr and chase cats	1
+44	cats purr and don't purr	0
+45	cats purr or chase dogs	1
+46	cats purr or chase cats	1
+47	cats purr or don't purr	1
+48	dogs chase dogs and chase dogs	1
+49	dogs chase dogs and chase cats	1
+50	dogs chase dogs and don't purr	1
+51	dogs chase dogs or chase dogs	1
+52	dogs chase dogs or chase cats	1
+53	dogs chase dogs or don't purr	1
+54	dogs chase cats and chase dogs	1
+55	dogs chase cats and chase cats	1
+56	dogs chase cats and don't purr	1
+57	dogs chase cats or chase dogs	1
+58	dogs chase cats or chase cats	1
+59	dogs chase cats or don't purr	1
+60	dogs don't chase dogs and purr	0
+61	dogs don't chase dogs or purr	0
+62	dogs don't chase cats and purr	0
+63	dogs don't chase cats or purr	0
+64	dogs don't don't don't chase dogs	0
+65	dogs don't don't don't chase cats	0
+66	dogs don't don't don't don't purr	0
+67	dogs don't don't purr and purr	0
+68	dogs don't don't purr or purr	0
+69	dogs don't purr and chase dogs	1
+70	dogs don't purr and chase cats	1
+71	dogs don't purr and don't purr	1
+72	dogs don't purr or chase dogs	1
+73	dogs don't purr or chase cats	1
+74	dogs don't purr or don't purr	1
+75	dogs purr and don't chase dogs	0
+76	dogs purr and don't chase cats	0
+77	dogs purr and don't don't purr	0
+78	dogs purr and purr and purr	0
+79	dogs purr and purr or purr	0
+80	dogs purr or don't chase dogs	0
+81	dogs purr or don't chase cats	0
+82	dogs purr or don't don't purr	0
+83	dogs purr or purr and purr	0
+84	dogs purr or purr or purr	0
+85	cats chase dogs and chase dogs	0
+86	cats chase dogs and chase cats	0
+87	cats chase dogs and don't purr	0
+88	cats chase dogs or chase dogs	0
+89	cats chase dogs or chase cats	1
+90	cats chase dogs or don't purr	0
+91	cats chase cats and chase dogs	0
+92	cats chase cats and chase cats	1
+93	cats chase cats and don't purr	0
+94	cats chase cats or chase dogs	1
+95	cats chase cats or chase cats	1
+96	cats chase cats or don't purr	1
+97	cats don't chase dogs and purr	1
+98	cats don't chase dogs or purr	1
+99	cats don't chase cats and purr	0

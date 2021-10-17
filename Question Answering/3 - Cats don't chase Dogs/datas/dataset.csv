@@ -1,0 +1,20 @@
+0	dogs purr	0
+1	cats purr	1
+2	dogs chase dogs	1
+3	dogs chase cats	1
+4	dogs don't purr	1
+5	cats chase dogs	0
+6	cats chase cats	1
+7	cats don't purr	0
+8	dogs don't chase dogs	0
+9	dogs don't chase cats	0
+10	dogs don't don't purr	1
+11	cats don't chase dogs	1
+12	cats don't chase cats	0
+13	cats don't don't purr	0
+14	dogs don't don't chase dogs	1
+15	dogs don't don't chase cats	1
+16	dogs don't don't don't purr	1
+17	cats don't don't chase dogs	0
+18	cats don't don't chase cats	1
+19	cats don't don't don't purr	0

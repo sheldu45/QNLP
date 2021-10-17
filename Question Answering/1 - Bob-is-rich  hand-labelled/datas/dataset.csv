@@ -1,0 +1,20 @@
+0	Alice is rich	1
+1	Bob is rich	1
+2	Alice loves Alice	0
+3	Alice loves Bob	0
+4	Bob loves Alice	1
+5	Bob loves Bob	1
+6	Alice who is rich is rich	1
+7	Bob who is rich is rich	1
+8	Alice who loves Alice is rich	0
+9	Alice who loves Bob is rich	0
+10	Alice who is rich loves Alice	0
+11	Alice who is rich loves Bob	0
+12	Bob who loves Alice is rich	1
+13	Bob who loves Bob is rich	1
+14	Bob who is rich loves Alice	1
+15	Bob who is rich loves Bob	1
+16	Alice who loves Alice loves Alice	0
+17	Alice who loves Alice loves Bob	0
+18	Alice who loves Bob loves Alice	0
+19	Alice who loves Bob loves Bob	0
